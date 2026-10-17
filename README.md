@@ -1,8 +1,9 @@
 ☠️Walisson Carlos 😶‍🌫️
+
 **`Desenvolvedora FullStack`**
 
 
- Me chamo walisson Carlos, tenho 32 anos e sou natural de Brasília. , com o curso técnico em Eletrônica. Atualmente, estou cursando Engenharia de Software no Gran facult e tenho pos em full stack. Sou apaixonado 
+ Me chamo walisson Carlos, tenho 32 anos e sou natural de Brasília. , com o curso técnico em Eletrônica. Atualmente, estou cursando Engenharia de Software no Gran facult e tenho pos em full stack. Sou apaixonado por tecnologia e em aprender coisas novas
 
 ### 🤖 Estatísticas
 ### 📊 Estatísticas
