@@ -1,3 +1,9 @@
+<h2 data-importer="text" align="center">☠️Walisson Carlos 😶‍🌫️<br><br>**`Desenvolvedor FullStack`**<br><br><br> Meu nome é walisson Carlos, tenho 32 anos e sou natural de Brasília. , com o curso técnico em Eletrônica. Atualmente, estou cursando Engenharia de Software no Gran facult e tenho pos em full stack. Sou apaixonado por tecnologia e em aprender coisas novas<br><br>
+### 🤖 Estatísticas<br>
+### 📊 Estatísticas</h2>
+
+###
+
 <div data-importer="socials" align="center">
   <a href="WalissonCarlos01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -10,12 +16,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h2 data-importer="text" align="center">☠️Walisson Carlos 😶‍🌫️<br><br>**`Desenvolvedor FullStack`**<br><br><br> Meu nome é walisson Carlos, tenho 32 anos e sou natural de Brasília. , com o curso técnico em Eletrônica. Atualmente, estou cursando Engenharia de Software no Gran facult e tenho pos em full stack. Sou apaixonado por tecnologia e em aprender coisas novas<br><br>
-### 🤖 Estatísticas<br>
-### 📊 Estatísticas</h2>
 
 ###
 
